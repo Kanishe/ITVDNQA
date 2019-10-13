@@ -9,7 +9,7 @@ public class Sample {
     public static void main(String[] args) {
 
         // Указываем путь к драйверу. Это необходимо для всех драйверов кроме Firefox до 46 версии.
-        System.setProperty("webdriver.chrome.driver", System.getProperty("/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/sample/src/main/resources/chromedriver"));
+        System.setProperty("webdriver.chrome.driver","/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/sample/src/main/resources/chromedriver");
         WebDriver driver = new ChromeDriver();
 
 
@@ -24,6 +24,7 @@ public class Sample {
         // Дополнительный способ перейти на страницу
         // driver.get() == driver.navigate().to()
         driver.navigate().to("https://dictionary.cambridge.org");
+
 
         WebElement cambridgeSearchBox = driver.findElement(By.className("cdo-search__input"));
         cambridgeSearchBox.sendKeys("carrot");

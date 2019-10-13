@@ -9,8 +9,9 @@ public class Sample {
     public static void main(String[] args) {
 
         // Указываем путь к драйверу. Это необходимо для всех драйверов кроме Firefox до 46 версии.
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\src\\main\\resources\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/sample/src/main/resources/chromedriver"));
         WebDriver driver = new ChromeDriver();
+
 
         // OnLoad событие
         driver.get("http://www.google.com/xhtml");

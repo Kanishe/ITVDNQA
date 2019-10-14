@@ -21,12 +21,13 @@ public class Sample {
         searchBox.submit();
 
 
+
+
+
         // Дополнительный способ перейти на страницу
         // driver.get() == driver.navigate().to()
-        driver.navigate().to("https://dictionary.cambridge.org");
-
-
-        WebElement cambridgeSearchBox = driver.findElement(By.className("cdo-search__input"));
+        driver.navigate().to("https://yandex.ru/");
+        WebElement cambridgeSearchBox = driver.findElement(By.id("text"));
         cambridgeSearchBox.sendKeys("carrot");
         cambridgeSearchBox.submit();
 

@@ -2,95 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75b11139-7766-4c35-bc10-d2f53b151e80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/lesson4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.gradle/5.4.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/BasicsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/MatchersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/ParameterizedTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/ClientTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/RemoteServicesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/categoriesMarker/IntegrationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/categoriesMarker/PerformanceTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/categoriesMarker/SlowTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/suites/FastTestsSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/categories/suites/SlowTestsSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/rules/ErrorCollectorRuleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/rules/ExpectedExceptionRuleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/rules/TemporaryFolderRuleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/out/test/classes/com/itvdn/rules/TestNameRuleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/BasicsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/MatchersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/ParameterizedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/ClientTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/RemoteServicesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/categoriesMarker/IntegrationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/categoriesMarker/PerformanceTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/categoriesMarker/SlowTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/suites/FastTestsSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/categories/suites/SlowTestsSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/rules/ErrorCollectorRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/rules/ExpectedExceptionRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/rules/TemporaryFolderRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit4_Sample/src/test/java/com/itvdn/rules/TestNameRuleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/main/java/com/itvdn/ArithmeticOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/test/java/com/itvdn/BasicsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/test/java/com/itvdn/NestedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/test/java/com/itvdn/ParameterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/test/java/com/itvdn/RepetitionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/test/java/com/itvdn/categories/TaggedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/junit5_Sample/src/test/java/com/itvdn/categories/suites/FastTestsSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/AllBeforeAfterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/BasicsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/GroupTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/MatchersTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/Parallel/ParallelMethodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/Parallel/ParallelMethodTestTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/java/com/itvdn/ParameterizedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/resources/testng_parallel_classes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/resources/testng_parallel_methods.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/resources/testng_parallel_tests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson4/testNG_Sample/src/test/resources/testng_simple.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../sample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../sample/src/main/java/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sample/src/main/java/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../junit5_Sample/target/" />
+    <ignored path="$PROJECT_DIR$/../testNG_Sample/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,11 +18,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/itvdn/BasicsTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../junit5_Sample/src/test/java/com/itvdn/BasicsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../testNG_Sample/src/test/java/com/itvdn/BasicsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,8 +63,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="537" />
-    <option name="width" value="1261" />
+    <option name="x" value="159" />
+    <option name="y" value="20" />
+    <option name="width" value="1544" />
     <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -142,74 +81,42 @@
           <expand>
             <path>
               <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="testNG_Sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="testNG_Sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="testNG_Sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="testNG_Sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="testNG_Sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itvdn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="testNG_Sample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="itvdn" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itvdn" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
-              <item name="categoriesMarker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junit4_Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit4_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="itvdn" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
-              <item name="suites" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,12 +127,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571252670375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571255024244" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
@@ -240,6 +147,44 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.MatchersTest">
+    <configuration name="BasicsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4_Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itvdn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itvdn" />
+      <option name="MAIN_CLASS_NAME" value="com.itvdn.BasicsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit4_Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itvdn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itvdn" />
+      <option name="MAIN_CLASS_NAME" value="com.itvdn.MatchersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MatchersTest" />
+        <item itemvalue="JUnit.BasicsTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -250,15 +195,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571252594415</updated>
-      <workItem from="1571252596867" duration="542000" />
+      <workItem from="1571252596867" duration="2161000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BasicsTest - 2019.10.16 at 22h 21m 32s.xml">
+      <configuration name="BasicsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatchersTest - 2019.10.16 at 22h 31m 51s.xml">
+      <configuration name="MatchersTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542000" />
+    <option name="totallyTimeSpent" value="2161000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="0" width="1261" height="878" extended-state="0" />
+    <frame x="159" y="20" width="1544" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -266,8 +219,9 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24938475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20239681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32896462" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -275,14 +229,14 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896462" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.3297785" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.26764315" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
@@ -297,14 +251,113 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/itvdn/BasicsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+        <state relative-caret-position="476">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1860#1861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itvdn/MatchersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itvdn/categories/RemoteServicesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itvdn/ParameterizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../junit5_Sample/src/test/java/com/itvdn/BasicsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../testNG_Sample/src/test/java/com/itvdn/BasicsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -328,6 +381,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testNG_Sample</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
@@ -342,6 +408,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: commons-io:commons-io:1.3.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

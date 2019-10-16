@@ -25,7 +25,7 @@ public class Sample {
         searchBox.sendKeys("pickles");
         searchBox.submit();
 
-        //
+        //Поиск по Майами
         driver.get("https://www.google.ru/");
         WebElement serchMiami = driver.findElement(By.xpath("//input[@name='q']"));
         serchMiami.sendKeys("майами");

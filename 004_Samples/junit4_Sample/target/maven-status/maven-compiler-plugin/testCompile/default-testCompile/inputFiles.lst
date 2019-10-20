@@ -1,0 +1,14 @@
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/ClientTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/categoriesMarker/SlowTests.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/rules/ExpectedExceptionRuleTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/rules/TemporaryFolderRuleTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/categoriesMarker/PerformanceTests.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/rules/ErrorCollectorRuleTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/RemoteServicesTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/MatchersTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/suites/SlowTestsSuite.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/categoriesMarker/IntegrationTests.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/BasicsTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/categories/suites/FastTestsSuite.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/ParameterizedTest.java
+/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/004_Samples/junit4_Sample/src/test/java/com/itvdn/rules/TestNameRuleTest.java

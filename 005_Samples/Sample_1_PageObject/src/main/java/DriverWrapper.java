@@ -5,7 +5,7 @@ public class DriverWrapper {
     WebDriver driver;
 
     public DriverWrapper() {
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\src\\main\\resources\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "/Users/alexandrkanishevskii/IdeaProjects/ITVDNQA/005_Samples/Sample_1_PageObject/src/main/resources/chromedriver");
         this.driver = new ChromeDriver();
     }
 
